@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # Sumaiyah Ibrahim
@@ -122,4 +121,3 @@ Responsive portfolio showcasing projects, skills, and technical experience.
 ---
 
 *"Focused on building practical AI systems and continuously improving as an engineer."*
-```
