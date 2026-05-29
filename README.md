@@ -55,7 +55,7 @@ Through continuous learning and hands-on projects, I strive to strengthen both m
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,bootstrap,react,nodejs,express,mongodb,mysql,git,github,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,bootstrap,react,nodejs,express,mongodb,mysql,git,github,vscode,figma,postman&perline=9" />
 
 </div>
 
@@ -63,17 +63,13 @@ Through continuous learning and hands-on projects, I strive to strengthen both m
 
 ## Connect
 
-**Email**
+<p align="center">
 
-sumaiyahibrahim15@gmail.com
+<a href="mailto:sumaiyahibrahim15@gmail.com">Email</a> •
+<a href="https://www.linkedin.com/in/sumaiyah-ibrahim-27049a284">LinkedIn</a> •
+<a href="https://sumaiyahibrahim.github.io/Sumaiyah-portfolio/index.html">Portfolio</a>
 
-**LinkedIn**
-
-https://www.linkedin.com/in/sumaiyah-ibrahim-27049a284
-
-**Portfolio**
-
-https://sumaiyahibrahim.github.io/Sumaiyah-portfolio/index.html
+</p>
 
 ---
 
