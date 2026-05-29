@@ -8,9 +8,17 @@
 Building intelligent applications with Machine Learning, Large Language Models, and modern web technologies.
 
 <p>
-  <a href="mailto:sumaiyahibrahim15@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/sumaiyah-ibrahim-27049a284">LinkedIn</a> •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+  <a href="mailto:sumaiyahibrahim15@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF4F9A?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/sumaiyah-ibrahim-27049a284">
+    <img src="https://img.shields.io/badge/LinkedIn-FF4F9A?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-FF4F9A?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 </div>
@@ -23,41 +31,44 @@ I am an undergraduate student passionate about Artificial Intelligence, Machine 
 
 My interests include Large Language Models (LLMs), intelligent systems, full-stack development, and building technology that solves real-world problems.
 
-I enjoy learning new technologies, exploring modern AI frameworks, and continuously strengthening my software engineering skills.
+I enjoy exploring modern AI frameworks, developing practical applications, and continuously strengthening my software engineering skills.
 
 ---
 
-## Technical Skills
+## Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ### Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express)
+<p>
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=bootstrap" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=express" />
+</p>
 
-### Databases
+### Databases & Tools
 
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman)
-![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=postman" />
+</p>
 
 ---
 
@@ -65,18 +76,33 @@ I enjoy learning new technologies, exploring modern AI frameworks, and continuou
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumaiyahibrahim&show_icons=true&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumaiyahibrahim&show_icons=true&hide_border=true&title_color=FF4F9A&icon_color=FF4F9A&text_color=555555&bg_color=FFFDF7"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyahibrahim&layout=compact&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyahibrahim&layout=compact&hide_border=true&title_color=FF4F9A&text_color=555555&bg_color=FFFDF7"/>
 
 </div>
 
 ---
 
-## Contact
+## Connect
 
-- Email: sumaiyahibrahim15@gmail.com
-- LinkedIn: https://www.linkedin.com/in/sumaiyah-ibrahim-27049a284
-- Portfolio: YOUR_PORTFOLIO_URL
+<p>
+📧 <a href="mailto:sumaiyahibrahim15@gmail.com">sumaiyahibrahim15@gmail.com</a>
+</p>
 
+<p>
+💼 <a href="https://www.linkedin.com/in/sumaiyah-ibrahim-27049a284">LinkedIn</a>
+</p>
+
+<p>
+🌐 <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+</p>
+
+---
+
+<div align="center">
+
+*Focused on building practical AI systems and growing as a software engineer.*
+
+</div>
 
