@@ -1,6 +1,8 @@
 
 <div align="center">
 
+<img src="./logo.png" width="90">
+
 # Sumaiyah Ibrahim
 
 ### Aspiring AI/ML Engineer • Full Stack Developer
@@ -29,9 +31,9 @@ Building intelligent applications with Machine Learning, Large Language Models, 
 
 I am an undergraduate student with a strong interest in Artificial Intelligence, Machine Learning, and Software Engineering.
 
-My work focuses on building modern applications that combine intelligent systems with clean and efficient user experiences. I enjoy exploring Large Language Models (LLMs), full-stack development, and practical AI solutions designed for real-world problems.
+My work focuses on building modern applications that combine intelligent systems with intuitive user experiences. I am particularly interested in Large Language Models, AI-powered applications, and full-stack development.
 
-I am continuously improving my technical skills through hands-on projects, experimentation, and learning modern technologies across both software engineering and AI.
+I enjoy transforming ideas into practical solutions through continuous learning, experimentation, and hands-on projects. My goal is to contribute to meaningful technology that creates real-world impact.
 
 ---
 
@@ -39,23 +41,7 @@ I am continuously improving my technical skills through hands-on projects, exper
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=bootstrap" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=express" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=figma" />
-<img src="https://skillicons.dev/icons?i=postman" />
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,bootstrap,react,nodejs,express,mongodb,mysql,git,github,vscode,figma,postman"/>
 
 </p>
 
@@ -63,11 +49,14 @@ I am continuously improving my technical skills through hands-on projects, exper
 
 ## Connect
 
-- Email: sumaiyahibrahim15@gmail.com
+📧 **Email**  
+sumaiyahibrahim15@gmail.com
 
-- LinkedIn: https://www.linkedin.com/in/sumaiyah-ibrahim-27049a284
+💼 **LinkedIn**  
+https://www.linkedin.com/in/sumaiyah-ibrahim-27049a284
 
-- Portfolio: https://sumaiyahibrahim.github.io/Sumaiyah-portfolio/index.html
+🌐 **Portfolio**  
+https://sumaiyahibrahim.github.io/Sumaiyah-portfolio/index.html
 
 ---
 
@@ -76,3 +65,4 @@ I am continuously improving my technical skills through hands-on projects, exper
 Focused on building practical AI systems and growing as a software engineer.
 
 </div>
+
