@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Sumaiyah Ibrahim
@@ -8,7 +9,7 @@ Building intelligent applications with Machine Learning, Large Language Models, 
 
 <p>
   <a href="mailto:sumaiyahibrahim15@gmail.com">Email</a> •
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/sumaiyah-ibrahim-27049a284">LinkedIn</a> •
   <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
 </p>
 
@@ -20,19 +21,9 @@ Building intelligent applications with Machine Learning, Large Language Models, 
 
 I am an undergraduate student passionate about Artificial Intelligence, Machine Learning, and Software Development.
 
-My interests include building intelligent systems, exploring Large Language Models (LLMs), developing full-stack applications, and applying AI to solve real-world problems.
+My interests include Large Language Models (LLMs), intelligent systems, full-stack development, and building technology that solves real-world problems.
 
----
-
-## Current Focus
-
-- Machine Learning Fundamentals
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents and Agentic Workflows
-- LangChain Ecosystem
-- Local LLM Deployment with Ollama
-- Full Stack Application Development
+I enjoy learning new technologies, exploring modern AI frameworks, and continuously strengthening my software engineering skills.
 
 ---
 
@@ -48,8 +39,8 @@ My interests include building intelligent systems, exploring Large Language Mode
 
 ### Web Development
 
-![HTML](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap)
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
@@ -70,26 +61,6 @@ My interests include building intelligent systems, exploring Large Language Mode
 
 ---
 
-## Featured Projects
-
-### AI Research Assistant
-
-AI-powered system for analyzing research papers, extracting insights, and generating structured summaries.
-
-### Website Summarizer using LLMs
-
-Application that extracts website content and generates concise summaries using Large Language Models.
-
-### Leave Management System
-
-Full-stack web application for managing leave requests, approvals, and employee records.
-
-### Personal Portfolio Website
-
-Responsive portfolio showcasing projects, skills, and technical experience.
-
----
-
 ## GitHub Statistics
 
 <div align="center">
@@ -102,22 +73,10 @@ Responsive portfolio showcasing projects, skills, and technical experience.
 
 ---
 
-## GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sumaiyahibrahim&hide_border=true"/>
-
-</div>
-
----
-
 ## Contact
 
 - Email: sumaiyahibrahim15@gmail.com
-- LinkedIn: YOUR_LINKEDIN_URL
+- LinkedIn: https://www.linkedin.com/in/sumaiyah-ibrahim-27049a284
 - Portfolio: YOUR_PORTFOLIO_URL
 
----
 
-*"Focused on building practical AI systems and continuously improving as an engineer."*
