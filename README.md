@@ -6,7 +6,7 @@
 
 <td width="120">
 
-<img src="./logo.png" width="90">
+<img src="./logo.svg" width="90">
 
 </td>
 
