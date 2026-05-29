@@ -1,13 +1,27 @@
 
 <div align="center">
 
+<table>
+<tr>
+
+<td width="120">
+
 <img src="./logo.png" width="90">
+
+</td>
+
+<td align="left">
 
 # Sumaiyah Ibrahim
 
 ### Aspiring AI/ML Engineer • Full Stack Developer
 
 Building intelligent applications with Machine Learning, Large Language Models, and modern web technologies.
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -31,31 +45,34 @@ Building intelligent applications with Machine Learning, Large Language Models, 
 
 I am an undergraduate student with a strong interest in Artificial Intelligence, Machine Learning, and Software Engineering.
 
-My work focuses on building modern applications that combine intelligent systems with intuitive user experiences. I am particularly interested in Large Language Models, AI-powered applications, and full-stack development.
+My work focuses on developing intelligent systems, AI-powered applications, and modern web solutions that solve real-world problems. I am particularly interested in Large Language Models (LLMs), Generative AI, Machine Learning, and full-stack development.
 
-I enjoy transforming ideas into practical solutions through continuous learning, experimentation, and hands-on projects. My goal is to contribute to meaningful technology that creates real-world impact.
+Through continuous learning and hands-on projects, I strive to strengthen both my engineering foundations and practical AI expertise while building solutions that create meaningful impact.
 
 ---
 
 ## Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,bootstrap,react,nodejs,express,mongodb,mysql,git,github,vscode,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,bootstrap,react,nodejs,express,mongodb,mysql,git,github,vscode,figma,postman" />
 
-</p>
+</div>
 
 ---
 
 ## Connect
 
-📧 **Email**  
+**Email**
+
 sumaiyahibrahim15@gmail.com
 
-💼 **LinkedIn**  
+**LinkedIn**
+
 https://www.linkedin.com/in/sumaiyah-ibrahim-27049a284
 
-🌐 **Portfolio**  
+**Portfolio**
+
 https://sumaiyahibrahim.github.io/Sumaiyah-portfolio/index.html
 
 ---
@@ -65,4 +82,3 @@ https://sumaiyahibrahim.github.io/Sumaiyah-portfolio/index.html
 Focused on building practical AI systems and growing as a software engineer.
 
 </div>
-
