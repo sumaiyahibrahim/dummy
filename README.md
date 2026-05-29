@@ -27,11 +27,11 @@ Building intelligent applications with Machine Learning, Large Language Models, 
 
 ## About
 
-I am an undergraduate student passionate about Artificial Intelligence, Machine Learning, and Software Development.
+I am an undergraduate student with a strong interest in Artificial Intelligence, Machine Learning, and Software Engineering.
 
-My interests include Large Language Models (LLMs), intelligent systems, full-stack development, and building technology that solves real-world problems.
+My work focuses on building modern applications that combine intelligent systems with clean and efficient user experiences. I enjoy exploring Large Language Models (LLMs), full-stack development, and practical AI solutions designed for real-world problems.
 
-I enjoy exploring modern AI frameworks, developing practical applications, and continuously strengthening my software engineering skills.
+I am continuously improving my technical skills through hands-on projects, experimentation, and learning modern technologies across both software engineering and AI.
 
 ---
 
@@ -61,18 +61,6 @@ I enjoy exploring modern AI frameworks, developing practical applications, and c
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sumaiyahibrahim&show_icons=true&theme=default&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiyahibrahim&layout=compact&hide_border=true"/>
-
-</div>
-
----
-
 ## Connect
 
 - Email: sumaiyahibrahim15@gmail.com
@@ -85,7 +73,6 @@ I enjoy exploring modern AI frameworks, developing practical applications, and c
 
 <div align="center">
 
-*"Focused on building practical AI systems and growing as a software engineer."*
+Focused on building practical AI systems and growing as a software engineer.
 
 </div>
-
